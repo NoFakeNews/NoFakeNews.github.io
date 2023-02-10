@@ -1,0 +1,11 @@
+/* Fichier CSS à personnaliser */
+
+body{
+     background-color: #FBAA99;
+}
+h1 { 
+    text-align: center;
+    color:black
+    text-decoration: underline #FBAA99;
+    border: solid white;
+}
